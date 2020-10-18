@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img src="./imagens/logo-repo.png" alt="Google Search Page Clone by Jhony Walker" width="300px" />
+    <img src="./imagens/logo-repo-google.png" alt="Google Search Page Clone by Jhony Walker" width="300px" />
 </h1>
 
 ## :clipboard: About the project
