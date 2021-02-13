@@ -5,7 +5,7 @@
 
 ## :clipboard: About the project
 
-The most famous web search page in the world, but this style before the implementation of the famous rounding aside the tips. Come and see the final [result](https://jhonywalker-pixel.github.io/google-search-clone/)
+The most famous web search page in the world, but this style before the implementation of the famous rounding aside the tips.
 
 ## :computer: Used language
 
